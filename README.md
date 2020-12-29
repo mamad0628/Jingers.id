@@ -1,3 +1,3 @@
 # Jingers.id-7
-Tugas #7 PCS Auth Design Pattern
+Tugas PCS 
 18.12.0628 || MUHAMMAD
